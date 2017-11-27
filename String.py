@@ -36,4 +36,4 @@ if str.isupper():
     print('All character in upper')
 else:
     print('Not all chr in upper case')
-           
+       
